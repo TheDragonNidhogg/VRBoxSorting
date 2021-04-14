@@ -1,0 +1,606 @@
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Material_003.uasset" 0
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Boucer_Base.uasset" 1
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Material_002.uasset" 2
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Boucer_Push_Light_001.uasset" 3
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Material_001.uasset" 4
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Boucer_Push_Shell.uasset" 5
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Button_Base_Base.uasset" 6
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Button_Push_Light_001.uasset" 7
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Button_Push_Shell.uasset" 8
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 9
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 10
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 11
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/Geometry/Meshes/CubeMaterial.uasset" 12
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/Geometry/Meshes/1M_Cube.uasset" 13
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/BP_Cube.uasset" 14
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/First_Removal_System.uasset" 15
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Second_Removal_System.uasset" 16
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/SortingGame.uasset" 17
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/BP_Cube_Correct.uasset" 18
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/MI_SmallCubes_Red.uasset" 19
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/BP_Cube_Incorrect.uasset" 20
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/belt.uasset" 21
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/belta.uasset" 22
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Materiala.uasset" 23
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/belt_3.uasset" 24
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/belt_4.uasset" 25
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Material.uasset" 26
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Material_001.uasset" 27
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/bin_Hexagon6.uasset" 28
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Material_002.uasset" 29
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/bin_Pyrimad3.uasset" 30
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/bin_Pyrimad4.uasset" 31
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Bouncer_Skeleton.uasset" 32
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Bouncer_Skeleton_Sequence_Pushed.uasset" 33
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Bouncer_Skeleton_BlendSpace.uasset" 34
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/box_Cube4.uasset" 35
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/box_Hexagon6.uasset" 36
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/box_Pyrimad3.uasset" 37
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/box_Pyrimad4.uasset" 38
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Material_001a.uasset" 39
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/ceiling_light_cap_Cube.uasset" 40
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/light.uasset" 41
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/ceiling_light_cap_Cylinder.uasset" 42
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/ceiling_light_spline_Cube.uasset" 43
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/ceiling_light_spline_Cylinder.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 45
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 46
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 47
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 48
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/hoop_med.uasset" 49
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/hoop_sml.uasset" 50
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/NewAnimation.uasset" 51
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Material_002a.uasset" 52
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/pipe_cap_Cylinder.uasset" 53
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/pipe_Cylinder.uasset" 54
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 55
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/Geometry/Meshes/TemplateFloor.uasset" 56
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Basic_Wall.uasset" 57
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Pillar_50x500.uasset" 58
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Wall_400x300.uasset" 59
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Wall_400x400.uasset" 60
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Wall_500x500.uasset" 61
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 62
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 63
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Collapse01.uasset" 64
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Collapse02.uasset" 65
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Explosion01.uasset" 66
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Explosion02.uasset" 67
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Fire01.uasset" 68
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Fire_Sparks01.uasset" 69
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Light01.uasset" 70
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Light01_Cue.uasset" 71
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Light02.uasset" 72
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Light02_Cue.uasset" 73
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Smoke01.uasset" 74
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Starter_Birds01.uasset" 75
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Starter_Music01.uasset" 76
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Starter_Wind05.uasset" 77
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Starter_Wind06.uasset" 78
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Steam01.uasset" 79
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Explosion_Cue.uasset" 80
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Burst_M.uasset" 81
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_Burst.uasset" 82
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 83
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 84
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 86
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 87
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 88
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 89
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 90
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/P_Explosion.uasset" 91
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 92
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 93
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 94
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Bush_D.uasset" 95
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Bush_N.uasset" 96
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_Bush.uasset" 97
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Bush.uasset" 98
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Chair_M.uasset" 99
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Chair_N.uasset" 100
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_Chair.uasset" 101
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Couch.uasset" 102
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Glass.uasset" 103
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Door_M.uasset" 104
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Door_N.uasset" 105
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_Door.uasset" 106
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Door.uasset" 107
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 108
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 109
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 111
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 112
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 113
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_RockMesh_M.uasset" 114
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_RockMesh_N.uasset" 115
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_Rock.uasset" 116
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Rock.uasset" 117
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Shelf_M.uasset" 118
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Shelf_N.uasset" 119
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_Shelf.uasset" 120
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Shelf.uasset" 121
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Basic_Floor.uasset" 122
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Stairs.uasset" 123
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Cone.uasset" 124
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 125
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 126
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Pipe.uasset" 127
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 128
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 129
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Plane.uasset" 130
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Torus.uasset" 131
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Trim.uasset" 132
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 133
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 134
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 135
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Tube.uasset" 136
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 137
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 138
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 139
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 140
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 141
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 142
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 143
+"../../../Engine/Content/BasicShapes/Cone.uasset" 144
+"../../../Engine/Content/BasicShapes/Cube.uasset" 145
+"../../../Engine/Content/BasicShapes/Plane.uasset" 146
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 147
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 148
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 149
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 150
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 151
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 152
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 153
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 154
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 155
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 156
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 157
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 158
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 159
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 160
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 161
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 162
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 163
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 164
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 165
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 166
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 167
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 168
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 169
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 170
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 171
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 172
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 173
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 174
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 175
+"../../../Engine/Content/EditorResources/S_Note.uasset" 176
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 177
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 178
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 179
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 180
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 181
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 182
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 183
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 184
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 185
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 186
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 187
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 188
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 192
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 195
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 196
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 197
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 198
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 199
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 200
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 202
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 203
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 204
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 205
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 206
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 207
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 208
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 209
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 210
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 211
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 213
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 217
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 218
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 219
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 221
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 222
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 223
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 224
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 225
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 226
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 227
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 229
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 230
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 231
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 232
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 233
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 235
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 236
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 237
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 238
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 239
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 240
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 241
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 242
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 243
+"../../../Engine/Content/EngineResources/Black.uasset" 244
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 245
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 246
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 247
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 248
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 249
+"../../../Engine/Content/EngineSounds/Master.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 252
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 253
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 254
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 255
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 256
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 257
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 258
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 259
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 262
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 274
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 275
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 276
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 277
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 278
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 279
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 280
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 281
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 282
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 283
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 284
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 285
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 286
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 287
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 288
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 289
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 290
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 291
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 292
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 293
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 294
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 295
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 296
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 297
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 301
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 302
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 303
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 304
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 305
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 306
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Coveyor_Volume.uasset" 307
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/BP_PickupCube.uasset" 308
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/BP_Cube_Standard.uasset" 309
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/BP_Cube_Standard_Correct.uasset" 310
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/BP_Cube_Standard_Incorrect.uasset" 311
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Blueprints/BP_Cube_Standard_Correct1.uasset" 312
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Blueprints/BonusRingTrigger.uasset" 313
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Blueprints/BP_Cube_Standard_Incorrect1.uasset" 314
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 315
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 316
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 317
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 318
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 319
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 320
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 321
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 323
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 324
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 326
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 327
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/TeleportMCP.uasset" 328
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 329
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 330
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 331
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 332
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 333
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 334
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 335
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 336
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 337
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 338
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 339
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 340
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 341
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Meshes/1x1_cube.uasset" 342
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Meshes/BeaconDirection.uasset" 343
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Meshes/BeamMesh.uasset" 344
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 345
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 346
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Oak_D1.uasset" 347
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 348
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Infinite_Challenge_Game_Mode.uasset" 349
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Blueprints/Spawner1.uasset" 350
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 351
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 352
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 353
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 354
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 355
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 356
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 357
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 358
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 359
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/bin_Cube4.uasset" 360
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/Second_Removal_System_Child.uasset" 361
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/hoop_lrg.uasset" 362
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Blueprints/BonusRing.uasset" 363
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 364
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Material_003.uasset" 365
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Bouncer_PhysicsAsset.uasset" 366
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/Bouncer.uasset" 367
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Blueprints/Button1.uasset" 368
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Blueprints/Info1.uasset" 369
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Blueprints/Scoreboard1.uasset" 370
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Infinite_Challenge_Level_1_BuiltData.uasset" 371
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 372
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 373
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 374
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Meshes/belt_2.uasset" 375
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Infinite_Challenge_Level_1.umap" 376
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Blueprints/Track.uasset" 377
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Second_Removal_System_Moving_Infinite_Game_Mode.uasset" 378
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Infinite_Challenge_Level_2_BuiltData.uasset" 379
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Infinite_Challenge_Level/Infinite_Challenge_Level_2.umap" 380
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Main_Menu_Level/MenuGameMode.uasset" 381
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Main_Menu_Level/Widgets/Main_Menu.uasset" 382
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Main_Menu_Level/Widgets/BP_UMGMenu.uasset" 383
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Main_Menu_Level/Main_Menu_Level_BuiltData.uasset" 384
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Main_Menu_Level/Main_Menu_Level.umap" 385
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Game_Mode.uasset" 386
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Spawner_Timed.uasset" 387
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Button1_2.uasset" 388
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Info1_2.uasset" 389
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Scoreboard1_2.uasset" 390
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_1.umap" 391
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData.uasset" 392
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2.umap" 393
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Toss_In_The_Dark/Blueprints/Glowing_Material_Blue.uasset" 394
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Toss_In_The_Dark/Blueprints/BP_Cube_Standard_Incorrect_Bright.uasset" 395
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Toss_In_The_Dark/Toss_In_The_Dark_Level_1_BuiltData.uasset" 396
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Toss_In_The_Dark/Toss_In_The_Dark_Level_1.umap" 397
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 398
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 399
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 400
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 401
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 402
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 403
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 404
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 405
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 406
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 407
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 408
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 409
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 410
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_AssetPlatform.uasset" 411
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 412
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 413
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 414
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 415
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 416
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 417
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 418
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 419
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Maps/Advanced_Lighting.umap" 420
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 421
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_MacroVariation.uasset" 422
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 423
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 424
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 425
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 426
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 427
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Metal_Copper.uasset" 428
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Statue_M.uasset" 429
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Statue_N.uasset" 430
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 431
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Floor_400x400.uasset" 432
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 433
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Chair.uasset" 434
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_Statue.uasset" 435
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Statue.uasset" 436
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_TableRound_M.uasset" 437
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_TableRound_N.uasset" 438
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_TableRound.uasset" 439
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_TableRound.uasset" 440
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Maps/Minimal_Default.umap" 441
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Fire01_Cue.uasset" 442
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 443
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 444
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 445
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Water_N.uasset" 446
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 447
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 448
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/P_Fire.uasset" 449
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 450
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Smoke01_Cue.uasset" 451
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/P_Smoke.uasset" 452
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 453
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 454
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Spark_Core.uasset" 455
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_Spark.uasset" 456
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/P_Sparks.uasset" 457
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 458
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Steam01_Cue.uasset" 459
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/P_Steam_Lit.uasset" 460
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 461
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Lamp_M.uasset" 462
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Lamp_N.uasset" 463
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_Lamp.uasset" 464
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 465
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 466
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 467
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 468
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 469
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 470
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 471
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 472
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 473
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 474
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 475
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 476
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 477
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 478
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 479
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 480
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 481
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 482
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 483
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 484
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 485
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 486
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 487
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 488
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 489
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 490
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 491
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 492
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 493
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 494
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 495
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 496
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 497
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 498
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 499
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 500
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Gradinet_01.uasset" 501
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 502
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 503
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 504
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 505
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 506
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 507
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 508
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 509
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 510
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 511
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 512
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 513
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 514
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 515
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 516
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 517
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 518
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 519
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 520
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 521
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 522
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 523
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Ground_Grass.uasset" 524
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 525
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 526
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 527
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 528
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 529
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Ground_Moss.uasset" 530
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 531
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 532
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Metal_Gold.uasset" 533
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 534
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Metal_Rust.uasset" 535
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 536
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 537
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Metal_Steel.uasset" 538
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 539
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 540
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 541
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 542
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 543
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 544
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 545
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 546
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Rock_Slate.uasset" 547
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 548
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 549
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 550
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 551
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 552
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 553
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 554
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 555
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 556
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 557
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 558
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Tech_Panel.uasset" 559
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Water_Lake.uasset" 560
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Water_M.uasset" 561
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Water_Ocean.uasset" 562
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 563
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 564
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 565
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 566
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 567
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 568
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 569
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 570
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Wood_Oak.uasset" 571
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 572
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 573
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Wood_Pine.uasset" 574
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 575
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 576
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 577
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Wall_400x200.uasset" 578
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 579
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 580
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Collapse_Cue.uasset" 581
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 582
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 583
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 584
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 585
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/MaterialSphere.uasset" 586
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Frame_M.uasset" 587
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Textures/T_Frame_N.uasset" 588
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/Materials/M_Frame.uasset" 589
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_CornerFrame.uasset" 590
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_DoorFrame.uasset" 591
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_GlassWindow.uasset" 592
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_PillarFrame.uasset" 593
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_PillarFrame300.uasset" 594
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Props/SM_WindowFrame.uasset" 595
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Cube.uasset" 596
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 597
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Shapes/Shape_Sphere.uasset" 598
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/StarterContent/Maps/StarterMap.umap" 599
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 600
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 601
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualReality/Meshes/GenericHMD.uasset" 602
+"../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/VirtualRealityBP/Maps/StartupMap.umap" 603
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 604
+"../../../Engine/Content/Maps/Entry.umap" 605

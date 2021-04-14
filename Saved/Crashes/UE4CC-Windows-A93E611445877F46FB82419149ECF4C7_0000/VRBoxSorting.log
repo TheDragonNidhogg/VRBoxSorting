@@ -1,0 +1,1611 @@
+﻿Log file open, 11/23/20 03:17:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRBoxSorting
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.068027
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Engine.ini]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Engine.ini]
+[2020.11.23-09.17.01:141][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Engine.ini]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.23-09.17.01:141][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Engine.ini]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.23-09.17.01:142][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Engine.ini]
+[2020.11.23-09.17.01:142][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Engine.ini]
+[2020.11.23-09.17.01:146][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.11.23-09.17.01:146][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.23-09.17.01:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.23-09.17.01:147][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.23-09.17.01:147][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.23-09.17.01:150][  0]LogHAL: Display: Platform has ~ 16 GB [17129111552 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.23-09.17.01:150][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.23-09.17.01:150][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.11.23-09.17.01:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Scalability.ini]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.23-09.17.01:151][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.23-09.17.01:152][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.23-09.17.01:152][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.23-09.17.01:152][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Config/Windows/Engine.ini]
+[2020.11.23-09.17.01:152][  0]LogInit: Computer: DAVIS-PC
+[2020.11.23-09.17.01:152][  0]LogInit: User: Davis
+[2020.11.23-09.17.01:152][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.11.23-09.17.01:152][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.23-09.17.01:152][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.11.23-09.17.01:152][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.23-09.17.01:152][  0]LogMemory: Process Physical Memory: 113.25 MB used, 113.25 MB peak
+[2020.11.23-09.17.01:152][  0]LogMemory: Process Virtual Memory: 107.11 MB used, 107.11 MB peak
+[2020.11.23-09.17.01:152][  0]LogMemory: Physical Memory: 6781.89 MB used,  9553.70 MB free, 16335.59 MB total
+[2020.11.23-09.17.01:152][  0]LogMemory: Virtual Memory: 5180.43 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.11.23-09.17.01:155][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.23-09.17.01:172][  0]LogInit: Using OS detected language (en-US).
+[2020.11.23-09.17.01:172][  0]LogInit: Using OS detected locale (en-US).
+[2020.11.23-09.17.01:173][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.23-09.17.01:334][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.23-09.17.01:366][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.23-09.17.01:366][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.23-09.17.01:476][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.23-09.17.01:476][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.23-09.17.01:476][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.23-09.17.01:544][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2020.11.23-09.17.01:544][  0]LogD3D11RHI:       4053/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.11.23-09.17.01:547][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.23-09.17.01:547][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.23-09.17.01:547][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.23-09.17.01:555][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.23-09.17.01:555][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.23-09.17.01:555][  0]LogWindows: EnumDisplayDevices:
+[2020.11.23-09.17.01:555][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2020.11.23-09.17.01:555][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2020.11.23-09.17.01:555][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.11.23-09.17.01:556][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2020.11.23-09.17.01:556][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.23-09.17.01:556][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2020.11.23-09.17.01:556][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.11.23-09.17.01:556][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.11.23-09.17.01:556][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.11.23-09.17.01:609][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.23-09.17.01:609][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.23-09.17.01:635][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.23-09.17.01:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.23-09.17.01:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.23-09.17.01:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.23-09.17.01:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.23-09.17.01:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.23-09.17.01:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.23-09.17.01:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.23-09.17.01:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.23-09.17.01:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.23-09.17.01:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.23-09.17.02:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.23-09.17.02:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.23-09.17.02:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.23-09.17.02:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.23-09.17.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.23-09.17.02:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.23-09.17.02:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.23-09.17.02:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.23-09.17.02:062][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.23-09.17.02:065][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.23-09.17.02:094][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Intermediate/Shaders/WorkingDirectory/18224/).
+[2020.11.23-09.17.02:094][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Davis/AppData/Local/Temp/UnrealShaderWorkingDir/F1DBDC0E4B9611BF27CD7EB129DA850B/'.
+[2020.11.23-09.17.02:095][  0]LogXGEController: Cleaning working directory: C:/Users/Davis/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.23-09.17.02:095][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.23-09.17.02:095][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.23-09.17.02:095][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.23-09.17.02:764][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.23-09.17.02:834][  0]LogDerivedDataCache: Loaded boot cache 0.07s 83MB C:/Users/Davis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.11.23-09.17.02:834][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Davis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.11.23-09.17.02:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.23-09.17.02:834][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.23-09.17.02:835][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.23-09.17.02:835][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.23-09.17.02:844][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.23-09.17.02:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.23-09.17.02:844][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.23-09.17.02:844][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Davis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.23-09.17.02:845][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.23-09.17.02:845][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.23-09.17.02:868][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.23-09.17.02:870][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.23-09.17.02:870][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.23-09.17.02:917][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.11.23-09.17.03:180][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.23-09.17.03:320][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.23-09.17.03:320][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.23-09.17.03:320][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.23-09.17.03:320][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.23-09.17.03:320][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.23-09.17.03:333][  0]LogNetVersion: VRBoxSorting 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3946986653)
+[2020.11.23-09.17.04:234][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.039991 seconds
+[2020.11.23-09.17.04:240][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.11.23-09.17.04:240][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.11.23-09.17.04:240][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.23-09.17.04:587][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.23-09.17.04:589][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.23-09.17.04:633][  0]SourceControl: Source control is disabled
+[2020.11.23-09.17.04:633][  0]SourceControl: Source control is disabled
+[2020.11.23-09.17.04:634][  0]SourceControl: Source control is disabled
+[2020.11.23-09.17.04:635][  0]SourceControl: Source control is disabled
+[2020.11.23-09.17.04:636][  0]SourceControl: Source control is disabled
+[2020.11.23-09.17.04:641][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.23-09.17.04:642][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.23-09.17.04:708][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.23-09.17.04:717][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.23-09.17.04:717][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.23-09.17.04:791][  0]LogOcInput: OculusInput pre-init called
+[2020.11.23-09.17.05:336][  0]LogEngine: Initializing Engine...
+[2020.11.23-09.17.05:337][  0]LogHMD: Oculus plugin initialized. Version: 4.24.3-11590370+++UE4+Release-4.24, OVRPlugin: 1.40.0
+[2020.11.23-09.17.05:338][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.23-09.17.05:647][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.23-09.17.05:654][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.23-09.17.05:675][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.17.05:675][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.17.05:675][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.17.05:675][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.17.05:675][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.17.05:675][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.17.05:675][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.17.05:675][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.17.05:676][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.17.05:676][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.17.05:715][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.17.05:715][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.17.05:716][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.17.05:716][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.17.05:716][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.17.05:716][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.17.05:716][  0]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.17.05:716][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.17.05:716][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.17.05:738][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.17.05:744][  0]LogInit: FAudioDevice initialized.
+[2020.11.23-09.17.05:744][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.23-09.17.06:022][  0]LogDerivedDataCache: Saved boot cache 0.28s 83MB C:/Users/Davis/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.11.23-09.17.06:027][  0]LogInit: Texture streaming: Enabled
+[2020.11.23-09.17.06:035][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.23-09.17.06:035][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.23-09.17.06:036][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.23-09.17.06:091][  0]LogInit: Transaction tracking system initialized
+[2020.11.23-09.17.06:099][  0]BlueprintLog: New page: Editor Load
+[2020.11.23-09.17.06:124][  0]LocalizationService: Localization service is disabled
+[2020.11.23-09.17.06:170][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.23-09.17.06:171][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.23-09.17.06:364][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.23-09.17.06:364][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.23-09.17.06:932][  0]SourceControl: Source control is disabled
+[2020.11.23-09.17.06:933][  0]LightingResults: New page: Lighting Build
+[2020.11.23-09.17.06:933][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.17.06:933][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.17.06:933][  0]MapCheck: New page: Map Check
+[2020.11.23-09.17.06:933][  0]LightingResults: New page: Lighting Build
+[2020.11.23-09.17.06:959][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.11.23-09.17.07:473][  0]LogAIModule: Creating AISystem for world Infinite_Challenge_Level_1
+[2020.11.23-09.17.07:481][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2020.11.23-09.17.07:482][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2020.11.23-09.17.07:489][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.23-09.17.07:520][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.23-09.17.07:523][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.23-09.17.07:523][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.175ms to complete.
+[2020.11.23-09.17.07:523][  0]LogFileHelpers: Loading map 'Infinite_Challenge_Level_1' took 0.590
+[2020.11.23-09.17.07:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.17.07:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.17.07:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.17.07:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.17.07:692][  0]LogCollectionManager: Loaded 0 collections in 0.001739 seconds
+[2020.11.23-09.17.07:702][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Collections/' took 0.00s
+[2020.11.23-09.17.07:702][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/Developers/Davis/Collections/' took 0.00s
+[2020.11.23-09.17.07:703][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/Collections/' took 0.00s
+[2020.11.23-09.17.07:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 3015 classes and 717 folders.
+[2020.11.23-09.17.07:706][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.23-09.17.07:754][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.23-09.17.07:757][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.11.23-09.17.07:882][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.23-09.17.07:884][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.23-09.17.07:887][  0]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.23-09.17.07:954][  0]LogRenderer: Reallocating scene render targets to support 1208x536 Format 26 NumSamples 1 (Frame:1).
+[2020.11.23-09.17.08:040][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.23-09.17.08:040][  0]LogLoad: (Engine Initialization) Total time: 8.27 seconds
+[2020.11.23-09.17.08:040][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.23-09.17.08:051][  0]LogOcInput: OculusInput is initialized
+[2020.11.23-09.17.08:085][  0]LogAssetRegistry: Asset discovery search completed in 5.1690 seconds
+[2020.11.23-09.17.08:088][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.11.23-09.17.08:089][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.23-09.17.08:148][  0]LogRenderer: Reallocating scene render targets to support 1208x552 Format 26 NumSamples 1 (Frame:3).
+[2020.11.23-09.17.08:148][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.23-09.17.39:550][767]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.23-09.17.39:715][767]LogLinker: Warning: While loading '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2.umap' failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:715][767]LogLinker: Warning: While loading '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2.umap' failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:718][767]LogLinker: Warning: While loading '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2.umap' failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:718][767]LogLinker: Warning: While loading '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2.umap' failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:719][767]LogLinker: Warning: Failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:719][767]LogLinker: Warning: Failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:720][767]LogLinker: Warning: Failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:720][767]LogLinker: Warning: Failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:725][767]LogLinker: Warning: While loading '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2.umap' failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:725][767]LoadErrors: Failed to load /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData.Timed_Level_2_BuiltData Referenced by PersistentLevel
+[2020.11.23-09.17.39:725][767]LogLinker: Warning: While loading '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2.umap' failed to load '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2_BuiltData': Can't find file.
+[2020.11.23-09.17.39:764][767]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.17.39:769][767]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2
+[2020.11.23-09.17.39:797][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.11.23-09.17.39:800][767]LightingResults: New page: Lighting Build
+[2020.11.23-09.17.39:801][767]LoadErrors: New page: Loading map: Timed_Level_2.umap
+[2020.11.23-09.17.39:802][767]LogWorld: UWorld::CleanupWorld for Infinite_Challenge_Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.17.39:802][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.17.39:803][767]MapCheck: New page: Map Check
+[2020.11.23-09.17.39:803][767]LightingResults: New page: Lighting Build
+[2020.11.23-09.17.39:829][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.11.23-09.17.39:912][767]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.23-09.17.39:940][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.11.23-09.17.39:975][767]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.23-09.17.39:975][767]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2020.11.23-09.17.39:975][767]LogFileHelpers: Loading map 'Timed_Level_2' took 0.178
+[2020.11.23-09.17.42:510][ 60]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.17.42:529][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.17.42:529][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.17.42:530][ 60]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:17:42 PM)
+[2020.11.23-09.17.42:530][ 60]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.23-09.17.42:531][ 60]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.23-09.17.42:533][ 60]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.17.42:540][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006914s)
+[2020.11.23-09.17.42:540][ 60]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.17.42:540][ 60]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2020.11.23-09.17.42:540][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.007918s)
+[2020.11.23-09.17.42:566][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.11.23-09.17.42:567][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.17.42:567][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.17.42:567][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.17.42:567][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.17.42:567][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.17.42:567][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.17.42:567][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.17.42:567][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.17.42:567][ 60]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.17.42:567][ 60]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.17.42:602][ 60]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.17.42:620][ 60]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.17.42:621][ 60]LogInit: FAudioDevice initialized.
+[2020.11.23-09.17.42:633][ 60]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.17.42:636][ 60]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.17.42
+[2020.11.23-09.17.42:636][ 60]LogWorld: Bringing up level for play took: 0.001230
+[2020.11.23-09.17.42:636][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.11.23-09.17.42:637][ 60]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.17.42:639][ 60]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.11.23-09.17.42:642][ 60]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 0.068
+[2020.11.23-09.17.42:643][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.17.42:643][ 60]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.17.42:643][ 60]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2020.11.23-09.17.44:696][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.17.44:696][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.17.44:696][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.17.44:696][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.17.44:697][281]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.17.44:698][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.17.44:698][281]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.17.44:699][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.17.44:707][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.17.44:708][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.17.44:711][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.17.44:737][281]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.17.44:740][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.17.44:743][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.11.23-09.17.44:798][287]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.11.23-09.17.46:252][457]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume15)
+[2020.11.23-09.17.46:913][533]LogEditorViewport: Clicking on Actor (LMB): Button2_C (Button2)
+[2020.11.23-09.18.02:142][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.11.23-09.18.04:925][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.11.23-09.18.25:723][355]LogSlate: Window 'Replace References?' being destroyed
+[2020.11.23-09.18.25:728][355]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.23-09.18.26:461][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.11.23-09.18.26:731][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.11.23-09.18.27:708][355]LogSlate: Window 'Save Content' being destroyed
+[2020.11.23-09.18.27:803][355]LogSavePackage: Moving '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Button27AECBC5E4C8B4A760FD544A9DB02C88A.tmp' to '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Button2.uasset'
+[2020.11.23-09.18.27:830][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.23-09.18.27:982][355]LogSavePackage: Moving '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Timed_Level_2CE29B802488B9E3D9E88DEAC0D0FCB01.tmp' to '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Level_2.umap'
+[2020.11.23-09.18.28:015][355]LogFileHelpers: Saving map 'Timed_Level_2' took 0.210
+[2020.11.23-09.18.28:029][355]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.23-09.18.28:029][355]LogContentValidation: Display: Validating ObjectRedirector /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Button2.Default__Button2_C
+[2020.11.23-09.18.28:029][355]LogContentValidation: Display: Validating ObjectRedirector /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Button2.Button2_C
+[2020.11.23-09.18.28:029][355]LogContentValidation: Display: Validating ObjectRedirector /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Button2.Button2
+[2020.11.23-09.18.28:029][355]LogContentValidation: Display: Validating World /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2
+[2020.11.23-09.18.29:659][528]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Button1_2.Button1_2
+[2020.11.23-09.18.29:811][528]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.11.23-09.18.30:655][528]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.23-09.18.30:704][529]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.23-09.18.58:930][172]LogEditorTransaction: Undo Delete current selection
+[2020.11.23-09.19.12:309][417]BlueprintLog: New page: Compile Button1_2
+[2020.11.23-09.19.12:312][417]LogBlueprint: Error: [Compiler Button1_2] This blueprint (self) is not a Infinite_Challenge_Game_Mode_C, therefore ' Target ' must have a connection.
+[2020.11.23-09.19.12:313][417]LogBlueprint: Error: [Compiler Button1_2] Variable node  Set Start_Time_In_Seconds  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.11.23-09.19.12:553][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.11.23-09.19.44:780][443]BlueprintLog: New page: Compile Button1_2
+[2020.11.23-09.19.45:004][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.11.23-09.19.50:792][998]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Info1_2.Info1_2
+[2020.11.23-09.19.57:624][598]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BoxSortingGame/Time_Level_Standard/Timed_Game_Mode.Timed_Game_Mode
+[2020.11.23-09.20.10:114][578]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.20.10:142][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.20.10:142][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.20.10:142][578]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:20:10 PM)
+[2020.11.23-09.20.10:144][578]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.20.10:153][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008758s)
+[2020.11.23-09.20.10:153][578]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.20.10:154][578]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2020.11.23-09.20.10:154][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.009875s)
+[2020.11.23-09.20.10:213][578]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.11.23-09.20.10:217][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.20.10:217][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.20.10:217][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.20.10:217][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.20.10:217][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.20.10:217][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.20.10:217][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.20.10:217][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.20.10:217][578]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.20.10:217][578]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.20.10:255][578]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.20.10:275][578]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.20.10:277][578]LogInit: FAudioDevice initialized.
+[2020.11.23-09.20.10:289][578]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.20.10:291][578]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.20.10
+[2020.11.23-09.20.10:291][578]LogWorld: Bringing up level for play took: 0.001582
+[2020.11.23-09.20.10:291][578]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.11.23-09.20.10:293][578]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.20.10:296][578]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 -0.278
+[2020.11.23-09.20.10:301][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.20.10:302][578]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.20.16:846][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.20.16:846][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.20.16:846][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.20.16:846][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.20.16:846][175]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.20.16:848][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.20.16:848][175]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.20.16:848][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.20.16:860][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.20.16:860][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.20.16:867][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.20.16:914][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.20.16:918][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.20.16:926][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.11.23-09.20.16:955][176]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.11.23-09.20.31:022][223]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BoxSortingGame/Infinite_Challenge_Level/Blueprints/Info1.Info1
+[2020.11.23-09.21.27:891][734]LogSlate: Took 0.040607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.11.23-09.21.48:698][328]BlueprintLog: New page: Compile Info1_2
+[2020.11.23-09.21.49:012][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.11.23-09.24.12:388][706]BlueprintLog: New page: Compile Info1_2
+[2020.11.23-09.24.12:733][706]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.11.23-09.24.21:538][537]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.24.21:572][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.24.21:572][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.24.21:572][537]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:24:21 PM)
+[2020.11.23-09.24.21:572][537]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.24.21:581][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008178s)
+[2020.11.23-09.24.21:582][537]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.24.21:582][537]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2020.11.23-09.24.21:582][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.009259s)
+[2020.11.23-09.24.21:631][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.11.23-09.24.21:632][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.24.21:633][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.24.21:633][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.24.21:633][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.24.21:633][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.24.21:633][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.24.21:633][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.24.21:633][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.24.21:633][537]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.24.21:633][537]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.24.21:670][537]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.24.21:689][537]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.24.21:690][537]LogInit: FAudioDevice initialized.
+[2020.11.23-09.24.21:700][537]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.24.21:702][537]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.24.21
+[2020.11.23-09.24.21:702][537]LogWorld: Bringing up level for play took: 0.001293
+[2020.11.23-09.24.21:702][537]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.11.23-09.24.21:703][537]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.24.21:706][537]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 1.132
+[2020.11.23-09.24.21:707][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.24.21:708][537]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.24.23:700][767]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.24.23:700][767]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.24.23:700][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.24.23:700][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.24.23:700][767]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.24.23:701][767]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.24.23:702][767]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.24.23:702][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.24.23:713][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.24.23:713][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.24.23:719][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.24.23:764][767]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.24.23:767][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.24.23:771][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.11.23-09.24.23:805][770]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.11.23-09.24.35:166][876]BlueprintLog: New page: Compile Timed_Game_Mode
+[2020.11.23-09.24.35:504][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.11.23-09.24.35:816][893]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.24.35:849][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.24.35:849][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.24.35:849][893]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:24:35 PM)
+[2020.11.23-09.24.35:850][893]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.24.35:858][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008657s)
+[2020.11.23-09.24.35:859][893]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.24.35:859][893]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2020.11.23-09.24.35:859][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.009739s)
+[2020.11.23-09.24.35:908][893]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.11.23-09.24.35:909][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.24.35:909][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.24.35:909][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.24.35:909][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.24.35:909][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.24.35:909][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.24.35:909][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.24.35:909][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.24.35:910][893]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.24.35:910][893]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.24.35:945][893]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.24.35:963][893]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.24.35:965][893]LogInit: FAudioDevice initialized.
+[2020.11.23-09.24.35:983][893]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.24.35:985][893]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.24.35
+[2020.11.23-09.24.35:985][893]LogWorld: Bringing up level for play took: 0.001364
+[2020.11.23-09.24.35:985][893]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.11.23-09.24.35:987][893]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.24.35:990][893]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 -0.584
+[2020.11.23-09.24.35:991][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.24.35:992][893]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.24.37:904][ 64]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.39:917][271]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.41:920][502]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.43:921][739]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.45:930][966]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.48:192][ 34]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.50:188][194]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.52:189][429]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.54:194][668]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.24.59:696][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.24.59:696][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.24.59:696][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.24.59:696][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.24.59:696][271]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.24.59:697][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.24.59:697][271]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.24.59:698][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.24.59:703][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.24.59:703][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.24.59:710][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.24.59:759][271]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.24.59:762][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.24.59:767][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.11.23-09.24.59:799][273]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.11.23-09.25.24:059][291]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.25.24:094][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.25.24:095][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.25.24:095][291]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:25:24 PM)
+[2020.11.23-09.25.24:095][291]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.25.24:104][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009215s)
+[2020.11.23-09.25.24:105][291]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.25.24:105][291]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2020.11.23-09.25.24:106][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.010332s)
+[2020.11.23-09.25.24:155][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.11.23-09.25.24:156][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.25.24:156][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.25.24:156][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.25.24:156][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.25.24:156][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.25.24:156][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.25.24:156][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.25.24:156][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.25.24:156][291]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.25.24:156][291]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.25.24:196][291]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.25.24:216][291]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.25.24:218][291]LogInit: FAudioDevice initialized.
+[2020.11.23-09.25.24:232][291]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.25.24:234][291]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.25.24
+[2020.11.23-09.25.24:234][291]LogWorld: Bringing up level for play took: 0.001584
+[2020.11.23-09.25.24:234][291]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.11.23-09.25.24:236][291]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.25.24:239][291]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 -0.335
+[2020.11.23-09.25.24:240][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.25.24:241][291]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.25.26:793][480]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.25.29:203][536]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.25.31:853][747]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.25.33:976][950]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.25.35:982][168]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.25.37:058][288]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_Standard_Incorrect1_C (BP_Cube_Standard_Incorrect12)
+[2020.11.23-09.25.37:991][379]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.25.43:531][969]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.25.43:531][969]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.25.43:531][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.25.43:532][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.25.43:532][969]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.25.43:549][969]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.25.43:550][969]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.25.43:550][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.25.43:559][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.25.43:559][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.25.43:565][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.25.43:608][969]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.25.43:611][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.25.43:615][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.11.23-09.25.43:631][970]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.11.23-09.25.44:766][101]LogEditorViewport: Clicking on Actor (LMB): Scoreboard1_2_C (Scoreboard1_2)
+[2020.11.23-09.25.47:098][369]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Scoreboard1_2.Scoreboard1_2
+[2020.11.23-09.26.00:435][434]LogSavePackage: Moving '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Info1_2F91AA446457B726F238FC7AB33B5FA3C.tmp' to '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Info1_2.uasset'
+[2020.11.23-09.26.00:461][434]AssetCheck: New page: Asset Save: Info1_2
+[2020.11.23-09.26.00:461][434]LogContentValidation: Display: Validating WidgetBlueprint /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Info1_2.Info1_2
+[2020.11.23-09.26.00:647][451]BlueprintLog: New page: Compile Info1_2
+[2020.11.23-09.26.00:976][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.11.23-09.26.12:901][604]LogSavePackage: Moving '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Timed_Game_ModeA3C5DC2F427E5C9726F9ECB1DA4C66C2.tmp' to '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Game_Mode.uasset'
+[2020.11.23-09.26.12:921][604]AssetCheck: New page: Asset Save: Timed_Game_Mode
+[2020.11.23-09.26.12:921][604]LogContentValidation: Display: Validating Blueprint /Game/BoxSortingGame/Time_Level_Standard/Timed_Game_Mode.Timed_Game_Mode
+[2020.11.23-09.26.27:055][865]BlueprintLog: New page: Compile Info1_2
+[2020.11.23-09.26.27:384][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.11.23-09.27.04:970][142]BlueprintLog: New page: Compile Info1_2
+[2020.11.23-09.27.05:300][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.11.23-09.27.06:158][214]LogSavePackage: Moving '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Info1_247BB18BF4385320B5DF2B18FFACE6B46.tmp' to '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Info1_2.uasset'
+[2020.11.23-09.27.06:177][214]AssetCheck: New page: Asset Save: Info1_2
+[2020.11.23-09.27.06:177][214]LogContentValidation: Display: Validating WidgetBlueprint /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Info1_2.Info1_2
+[2020.11.23-09.27.09:184][516]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.27.09:214][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.27.09:214][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.27.09:214][516]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:27:09 PM)
+[2020.11.23-09.27.09:215][516]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.27.09:222][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007316s)
+[2020.11.23-09.27.09:223][516]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.27.09:223][516]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2020.11.23-09.27.09:223][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.008401s)
+[2020.11.23-09.27.09:268][516]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.11.23-09.27.09:271][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.27.09:271][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.27.09:271][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.27.09:271][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.27.09:271][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.27.09:271][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.27.09:271][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.27.09:271][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.27.09:271][516]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.27.09:271][516]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.27.09:305][516]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.27.09:321][516]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.27.09:323][516]LogInit: FAudioDevice initialized.
+[2020.11.23-09.27.09:330][516]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.27.09:331][516]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.27.09
+[2020.11.23-09.27.09:332][516]LogWorld: Bringing up level for play took: 0.001284
+[2020.11.23-09.27.09:332][516]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.11.23-09.27.09:333][516]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.27.09:336][516]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 0.762
+[2020.11.23-09.27.09:341][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.27.09:342][516]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.27.11:179][710]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.27.13:182][932]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.27.15:181][172]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.27.16:411][313]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_Standard_Incorrect1_C (BP_Cube_Standard_Incorrect1)
+[2020.11.23-09.27.17:184][396]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.27.18:348][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (belt)
+[2020.11.23-09.27.19:188][623]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.27.20:898][823]LogEditorViewport: Clicking on Actor (LMB): BP_Cube_Standard_Incorrect1_C (BP_Cube_Standard_Incorrect12)
+[2020.11.23-09.27.21:189][854]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.27.25:469][305]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.27.25:469][305]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.27.25:469][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.27.25:469][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.27.25:469][305]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.27.25:471][305]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.27.25:471][305]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.27.25:471][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.27.25:485][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.27.25:485][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.27.25:491][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.27.25:534][305]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.27.25:537][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.27.25:542][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.11.23-09.27.25:566][307]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.11.23-09.27.37:814][555]Cmd: EDIT COPY
+[2020.11.23-09.27.38:192][599]Cmd: EDIT PASTE
+[2020.11.23-09.27.39:876][796]Cmd: EDIT COPY
+[2020.11.23-09.27.40:171][830]Cmd: EDIT PASTE
+[2020.11.23-09.27.44:419][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.27.44:420][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.27.44:420][317]PIE: New page: PIE session: Timed_Level_2 (Nov 22, 2020, 9:27:44 PM)
+[2020.11.23-09.27.44:420][317]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.27.44:430][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009518s)
+[2020.11.23-09.27.44:431][317]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.27.44:431][317]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2020.11.23-09.27.44:431][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.010850s)
+[2020.11.23-09.27.44:479][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.11.23-09.27.44:480][317]LogHMD: Initializing OVRPlugin session
+[2020.11.23-09.27.44:616][317]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2020.11.23-09.27.44:616][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.27.44:616][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.27.44:616][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.27.44:617][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.27.44:617][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.27.44:617][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.27.44:617][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.27.44:617][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.27.44:617][317]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.27.44:617][317]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.27.44:658][317]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: Name: Headphones (Oculus Virtual Audio Device)
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: Is Default: No
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.27.44:659][317]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.27.44:660][317]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.27.44:660][317]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek(R) Audio)
+[2020.11.23-09.27.44:660][317]LogAudioMixer: Display: Is Default: No
+[2020.11.23-09.27.44:660][317]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.27.44:660][317]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.27.44:660][317]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.27.44:660][317]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.27.44:661][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.27.44:661][317]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: Name: Speakers (USB Audio Device)
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: Is Default: No
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.27.44:662][317]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: Name: ASUS VS228 (NVIDIA High Definition Audio)
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: Is Default: No
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.27.44:663][317]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: Name: Headphones (2- Rift S)
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: Is Default: No
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.27.44:664][317]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: Name: Headphones (2- Rift S)
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: Is Default: No
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.27.44:666][317]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.27.44:679][317]LogAudioMixer: Display: Using Audio Device Headphones (2- Rift S)
+[2020.11.23-09.27.44:680][317]LogInit: FAudioDevice initialized.
+[2020.11.23-09.27.44:691][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.27.44:739][317]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.27.44:741][317]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.27.44
+[2020.11.23-09.27.44:742][317]LogWorld: Bringing up level for play took: 0.001613
+[2020.11.23-09.27.44:742][317]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.11.23-09.27.44:753][317]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 0.179
+[2020.11.23-09.27.44:753][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.27.44:754][317]LogEngine: Changing dynamic resolution state.
+[2020.11.23-09.27.44:755][317]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.27.44:772][317]LogRenderer: Reallocating scene render targets to support 3008x1616 Format 26 NumSamples 1 (Frame:1).
+[2020.11.23-09.27.44:772][317]LogHMD: Allocating Oculus 3008 x 1616 depth rendertarget swapchain
+[2020.11.23-09.27.44:819][320]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.11.23-09.27.46:392][474]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.27.58:526][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.27.58:545][289]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.11.23-09.27.58:565][289]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.11.23-09.27.58:565][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.27.58:598][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.27.58:598][289]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.27.58:655][289]LogSlate: Window 'VRBoxSorting Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.11.23-09.27.58:658][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.27.58:658][289]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.27.58:659][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.27.58:673][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.27.58:673][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.27.58:679][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.27.58:723][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.27.58:733][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.11.23-09.27.58:752][290]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.11.23-09.27.58:758][290]LogEngine: Changing dynamic resolution state.
+[2020.11.23-09.28.06:135][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.28.06:135][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.28.06:135][974]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:28:06 PM)
+[2020.11.23-09.28.06:135][974]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.28.06:145][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010222s)
+[2020.11.23-09.28.06:146][974]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.28.06:146][974]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2020.11.23-09.28.06:147][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.011349s)
+[2020.11.23-09.28.06:200][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.11.23-09.28.06:200][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.28.06:200][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.28.06:200][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.28.06:200][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.28.06:200][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.28.06:200][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.28.06:200][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.28.06:200][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.28.06:201][974]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.28.06:201][974]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.28.06:239][974]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.28.06:258][974]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.28.06:260][974]LogInit: FAudioDevice initialized.
+[2020.11.23-09.28.06:271][974]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.28.06:273][974]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.28.06
+[2020.11.23-09.28.06:273][974]LogWorld: Bringing up level for play took: 0.001587
+[2020.11.23-09.28.06:274][974]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.11.23-09.28.06:275][974]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.28.06:278][974]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 -0.296
+[2020.11.23-09.28.06:280][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.28.06:280][974]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.28.08:458][ 61]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.28.10:455][209]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.28.21:419][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.28.21:419][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.28.21:419][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.28.21:420][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.28.21:420][982]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.28.21:421][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.28.21:421][982]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.28.21:421][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.28.21:442][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.28.21:443][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.28.21:448][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.28.21:493][982]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.28.21:497][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.28.21:501][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.11.23-09.28.21:528][983]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.11.23-09.28.32:401][757]BlueprintLog: New page: Compile Timed_Game_Mode
+[2020.11.23-09.28.32:759][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.11.23-09.28.33:236][780]LogSavePackage: Moving '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Timed_Game_Mode7CF48F8244AA3396F149569890746230.tmp' to '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Timed_Game_Mode.uasset'
+[2020.11.23-09.28.33:256][780]AssetCheck: New page: Asset Save: Timed_Game_Mode
+[2020.11.23-09.28.33:257][780]LogContentValidation: Display: Validating Blueprint /Game/BoxSortingGame/Time_Level_Standard/Timed_Game_Mode.Timed_Game_Mode
+[2020.11.23-09.28.34:927][915]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.28.34:957][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.28.34:957][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.28.34:958][915]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:28:34 PM)
+[2020.11.23-09.28.34:958][915]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.28.34:966][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008416s)
+[2020.11.23-09.28.34:967][915]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.28.34:967][915]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2020.11.23-09.28.34:967][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.009438s)
+[2020.11.23-09.28.35:020][915]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.11.23-09.28.35:022][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.28.35:022][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.28.35:022][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.28.35:022][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.28.35:022][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.28.35:022][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.28.35:022][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.28.35:022][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.28.35:023][915]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.28.35:023][915]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.28.35:057][915]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.28.35:074][915]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.28.35:076][915]LogInit: FAudioDevice initialized.
+[2020.11.23-09.28.35:088][915]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.28.35:090][915]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.28.35
+[2020.11.23-09.28.35:090][915]LogWorld: Bringing up level for play took: 0.001567
+[2020.11.23-09.28.35:090][915]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.11.23-09.28.35:092][915]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.28.35:095][915]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 0.521
+[2020.11.23-09.28.35:096][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.28.35:096][915]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.28.36:994][ 64]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.29.22:564][861]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.29.22:564][861]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.29.22:564][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.29.22:565][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.29.22:565][861]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.29.22:566][861]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.29.22:566][861]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.29.22:567][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.29.22:589][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.29.22:589][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.29.22:595][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.29.22:640][861]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.29.22:643][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.29.22:648][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.11.23-09.29.22:674][862]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.11.23-09.29.33:183][788]BlueprintLog: New page: Compile Timed_Game_Mode
+[2020.11.23-09.29.33:501][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.11.23-09.29.33:963][817]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.29.33:993][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.29.33:993][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.29.33:993][817]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:29:33 PM)
+[2020.11.23-09.29.33:993][817]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.29.34:002][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008121s)
+[2020.11.23-09.29.34:002][817]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.29.34:003][817]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2020.11.23-09.29.34:003][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.009190s)
+[2020.11.23-09.29.34:054][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.11.23-09.29.34:054][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.29.34:054][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.29.34:054][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.29.34:054][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.29.34:054][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.29.34:054][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.29.34:054][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.29.34:054][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.29.34:055][817]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.29.34:055][817]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.29.34:089][817]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.29.34:105][817]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.29.34:106][817]LogInit: FAudioDevice initialized.
+[2020.11.23-09.29.34:123][817]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.29.34:125][817]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.29.34
+[2020.11.23-09.29.34:125][817]LogWorld: Bringing up level for play took: 0.001684
+[2020.11.23-09.29.34:125][817]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.11.23-09.29.34:127][817]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.29.34:129][817]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 -0.445
+[2020.11.23-09.29.34:131][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.29.34:131][817]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.29.36:053][960]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.29.38:223][179]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.29.50:476][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.29.50:476][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.29.50:476][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.29.50:477][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.29.50:477][419]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.29.50:478][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.29.50:478][419]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.29.50:479][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.29.50:493][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.29.50:493][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.29.50:500][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.29.50:544][419]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.29.50:548][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.29.50:554][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.11.23-09.29.50:581][421]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.11.23-09.29.51:966][576]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.29.51:996][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.29.51:996][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.29.51:996][576]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:29:51 PM)
+[2020.11.23-09.29.51:997][576]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.29.52:006][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008775s)
+[2020.11.23-09.29.52:006][576]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.29.52:007][576]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2020.11.23-09.29.52:007][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.009848s)
+[2020.11.23-09.29.52:059][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.11.23-09.29.52:060][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.29.52:060][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.29.52:060][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.29.52:060][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.29.52:060][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.29.52:060][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.29.52:060][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.29.52:060][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.29.52:061][576]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.29.52:061][576]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.29.52:096][576]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.29.52:112][576]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.29.52:113][576]LogInit: FAudioDevice initialized.
+[2020.11.23-09.29.52:122][576]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.29.52:123][576]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.29.52
+[2020.11.23-09.29.52:124][576]LogWorld: Bringing up level for play took: 0.001395
+[2020.11.23-09.29.52:124][576]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.11.23-09.29.52:125][576]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.29.52:128][576]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 -0.447
+[2020.11.23-09.29.52:129][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.29.52:129][576]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.29.53:968][715]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.30.04:610][878]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.30.04:610][878]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.30.04:610][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.30.04:611][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.30.04:611][878]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.30.04:612][878]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.30.04:612][878]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.30.04:613][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.30.04:639][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.30.04:639][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.30.04:646][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.30.04:693][878]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.30.04:696][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.30.04:701][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.11.23-09.30.04:719][879]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.11.23-09.31.06:464][406]BlueprintLog: New page: Compile Timed_Game_Mode
+[2020.11.23-09.31.06:811][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.11.23-09.31.07:428][444]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.31.07:460][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.31.07:460][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.31.07:460][444]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:31:07 PM)
+[2020.11.23-09.31.07:460][444]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.31.07:468][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007983s)
+[2020.11.23-09.31.07:469][444]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.31.07:469][444]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2020.11.23-09.31.07:469][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.009212s)
+[2020.11.23-09.31.07:520][444]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.11.23-09.31.07:521][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.31.07:521][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.31.07:521][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.31.07:521][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.31.07:521][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.31.07:521][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.31.07:521][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.31.07:521][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.31.07:521][444]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.31.07:521][444]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.31.07:555][444]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.31.07:573][444]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.31.07:574][444]LogInit: FAudioDevice initialized.
+[2020.11.23-09.31.07:589][444]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.31.07:591][444]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.31.07
+[2020.11.23-09.31.07:592][444]LogWorld: Bringing up level for play took: 0.001666
+[2020.11.23-09.31.07:592][444]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.11.23-09.31.07:593][444]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.31.07:596][444]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 1.023
+[2020.11.23-09.31.07:597][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.31.07:598][444]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.31.09:508][605]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.31.18:011][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.31.18:011][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.31.18:011][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.31.18:012][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.31.18:012][521]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.31.18:013][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.31.18:014][521]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.31.18:014][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.31.18:045][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.31.18:045][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.31.18:050][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.31.18:094][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.31.18:096][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.31.18:101][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.11.23-09.31.18:116][522]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.11.23-09.32.24:290][884]BlueprintLog: New page: Compile Info1_2
+[2020.11.23-09.32.24:633][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.11.23-09.32.25:079][925]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.32.25:110][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.32.25:110][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.32.25:110][925]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:32:25 PM)
+[2020.11.23-09.32.25:111][925]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.32.25:118][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007565s)
+[2020.11.23-09.32.25:119][925]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.32.25:119][925]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2020.11.23-09.32.25:119][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.008531s)
+[2020.11.23-09.32.25:167][925]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.11.23-09.32.25:169][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.32.25:169][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.32.25:169][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.32.25:169][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.32.25:169][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.32.25:169][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.32.25:169][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.32.25:169][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.32.25:169][925]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.32.25:169][925]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.32.25:201][925]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.32.25:217][925]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.32.25:218][925]LogInit: FAudioDevice initialized.
+[2020.11.23-09.32.25:233][925]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.32.25:235][925]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.32.25
+[2020.11.23-09.32.25:235][925]LogWorld: Bringing up level for play took: 0.001722
+[2020.11.23-09.32.25:236][925]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.11.23-09.32.25:237][925]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.32.25:240][925]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 0.666
+[2020.11.23-09.32.25:245][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.32.25:245][925]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.32.27:075][102]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.32.32:005][617]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.32.32:006][617]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.32.32:006][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.32.32:006][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.32.32:006][617]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.32.32:007][617]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.32.32:007][617]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.32.32:008][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.32.32:023][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.32.32:023][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.32.32:028][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.32.32:075][617]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.32.32:078][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.32.32:083][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.11.23-09.32.32:108][619]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.11.23-09.32.47:547][940]LogSavePackage: Moving '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Info1_21C1099A34C109D1D0B86628513140662.tmp' to '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Info1_2.uasset'
+[2020.11.23-09.32.47:566][940]AssetCheck: New page: Asset Save: Info1_2
+[2020.11.23-09.32.47:566][940]LogContentValidation: Display: Validating WidgetBlueprint /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Info1_2.Info1_2
+[2020.11.23-09.32.47:842][962]BlueprintLog: New page: Compile Info1_2
+[2020.11.23-09.32.48:195][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.11.23-09.32.58:595][899]LogTemp: Repeating last play command: Simulate
+[2020.11.23-09.32.58:630][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.32.58:630][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.23-09.32.58:630][899]PIE: New page: SIE session: Timed_Level_2 (Nov 22, 2020, 9:32:58 PM)
+[2020.11.23-09.32.58:630][899]LogPlayLevel: Creating play world package: /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.32.58:640][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009633s)
+[2020.11.23-09.32.58:641][899]LogAIModule: Creating AISystem for world Timed_Level_2
+[2020.11.23-09.32.58:641][899]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2020.11.23-09.32.58:641][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2 to /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 (0.010858s)
+[2020.11.23-09.32.58:692][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.11.23-09.32.58:693][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.23-09.32.58:693][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.23-09.32.58:693][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.23-09.32.58:693][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.23-09.32.58:693][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.23-09.32.58:693][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.23-09.32.58:693][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.23-09.32.58:693][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.23-09.32.58:694][899]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.23-09.32.58:694][899]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: Is Default: Yes
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: Sample Rate: 48000
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: Channel Count Used: 2
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: Device Channel Count: 2
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: Channel Order:
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.23-09.32.58:728][899]LogAudioMixer: Display: 1: FrontRight
+[2020.11.23-09.32.58:744][899]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.11.23-09.32.58:746][899]LogInit: FAudioDevice initialized.
+[2020.11.23-09.32.58:755][899]LogLoad: Game class is 'Timed_Game_Mode_C'
+[2020.11.23-09.32.58:757][899]LogWorld: Bringing World /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2.Timed_Level_2 up for play (max tick rate 0) at 2020.11.23-03.32.58
+[2020.11.23-09.32.58:757][899]LogWorld: Bringing up level for play took: 0.001377
+[2020.11.23-09.32.58:758][899]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.11.23-09.32.58:759][899]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.23-09.32.58:761][899]PIE: Play in editor start time for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2 0.188
+[2020.11.23-09.32.58:763][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.32.58:763][899]LogSlate: Slate User Unregistered.  User Index 8
+[2020.11.23-09.33.00:600][ 88]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2020.11.23-09.33.07:057][839]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.33.07:057][839]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.33.07:057][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.33.07:057][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.33.07:057][839]LogWorld: BeginTearingDown for /Game/BoxSortingGame/Time_Level_Standard/UEDPIE_0_Timed_Level_2
+[2020.11.23-09.33.07:058][839]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.33.07:058][839]LogWorld: UWorld::CleanupWorld for Timed_Level_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.23-09.33.07:059][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.33.07:073][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.23-09.33.07:073][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel' has LevelScriptBlueprint '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2' with GeneratedClass '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2_C' with ClassGeneratedBy '/Game/BoxSortingGame/Time_Level_Standard/Timed_Level_2.Timed_Level_2:PersistentLevel.Timed_Level_2'
+[2020.11.23-09.33.07:079][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.23-09.33.07:124][839]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.11.23-09.33.07:127][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.23-09.33.07:131][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.11.23-09.33.07:156][841]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.11.23-09.33.21:372][119]BlueprintLog: New page: Compile Timed_Game_Mode
+[2020.11.23-09.33.21:698][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.11.23-09.33.27:573][681]LogSavePackage: Moving '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Saved/Button1_2DB6263E9497F35850EE60F9383445A28.tmp' to '../../../../../../Users/Davis/Documents/Unreal Projects/VRBoxSorting/VRBoxSorting/Content/BoxSortingGame/Time_Level_Standard/Blueprints/Button1_2.uasset'
+[2020.11.23-09.33.27:640][681]AssetCheck: New page: Asset Save: Button1_2
+[2020.11.23-09.33.27:641][681]LogContentValidation: Display: Validating Blueprint /Game/BoxSortingGame/Time_Level_Standard/Blueprints/Button1_2.Button1_2
+[2020.11.23-09.33.28:543][769]LogUObjectArray: Warning: Other object in slot
+[2020.11.23-09.33.28:543][769]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.23-09.33.28:940][769]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.397 s
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: 
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: Stack: 
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb13707b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb12f1678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb12f2409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb440cc5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb11dd977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb11d91647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb2d2ab144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb2d49dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb2d2f60b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb2d2f39a4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb2d2f3316 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ff6427f901f UE4Editor.exe!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ff64280c3ec UE4Editor.exe!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ff64280c4ca UE4Editor.exe!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ff64281ceae UE4Editor.exe!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ff64281fcbe UE4Editor.exe!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb82db7034 KERNEL32.DLL!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: [Callstack] 0x00007ffb836dcec1 ntdll.dll!UnknownFunction []
+[2020.11.23-09.33.28:940][769]LogOutputDevice: Error: 
+[2020.11.23-09.33.29:046][769]LogStats:                SubmitErrorReport -  0.000 s
